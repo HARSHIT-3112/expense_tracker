@@ -12,3 +12,4 @@ git commit -m "$commit_message"
 git push origin $(git branch --show-current)
 
 echo "✅ Code pushed successfully!"
+
